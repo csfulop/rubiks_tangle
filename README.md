@@ -7,3 +7,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
+
+Another interesting page about this puzzle: https://www.jaapsch.net/puzzles/tangle.htm
